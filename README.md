@@ -23,7 +23,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Hayden Cardoza** - *Initial work* - [DozerFiles](https://github.com/DozerFiles)
+* **Hayden Cardoza** - *Initial work* - [iamHayden-c](https://github.com/iamHayden-c)
 * **Marc Berry** - *Initial work* - [CtrlAltMarc](https://github.com/CtrlAltMarc)
 * **Colton Kelsey** - *Initial work* - [CKelsey95](https://github.com/CKelsey95)
 
